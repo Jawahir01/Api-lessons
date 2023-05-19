@@ -100,3 +100,5 @@ function writeToDocument(type) {
         el.innerHTML = `<table>${tableHeaders}${tableRows}</table>`;
     });
 }
+
+// To be continued in with index2.html and main2.js
